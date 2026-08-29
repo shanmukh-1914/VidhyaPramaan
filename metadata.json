@@ -1,0 +1,6 @@
+{
+  "name": "SkillForge AI",
+  "description": "AI-native skill verification, automated proctoring, certificate OCR, and multilingual tutoring platform.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
